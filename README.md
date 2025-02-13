@@ -1,1 +1,1 @@
-# Sure-Trust-G18---Java
+# Sure-Trust-G18-Java
